@@ -1,9 +1,6 @@
 NoteShare
 
 
-
-
-
 An app where students can upload the lecture notes of universities so that others can read them. There are many study sectors in this country. The purpose of this project was to bring all of them under one hood. Anyone can-
 
 Upload Notes
